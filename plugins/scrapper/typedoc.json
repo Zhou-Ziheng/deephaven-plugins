@@ -1,0 +1,7 @@
+{
+  "out": "./docs",
+  "json": "./docs/documentation.json",
+  "entryPoints": ["node_modules/@react-spectrum/**/*.d.ts"],
+  "exclude": ["node_modules", "**/*.spec.ts"],
+  "tsconfig": "tsconfig.json"
+}
